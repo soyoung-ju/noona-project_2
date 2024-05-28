@@ -1,3 +1,45 @@
+/* 메인페이지 */
+.jua-regular {
+    font-family: "Jua", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.header{
+    text-align: right;
+    padding: 10px;
+}
+.main{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+}
+
+.body-main {
+    margin: 100px 0px 100px 0px;
+    text-align: center;
+}
+
+.body-sub{
+    text-decoration-line: none;
+    a:hover {color:orange;}
+    background-color: rgb(154, 73, 73);
+    color: rgb(255, 255, 255);
+    padding: 30px 50px 30px 50px;
+    margin: 0px 30px 0px 30px;
+}
+
+.img{
+    text-align: center;
+    margin: 50px;
+}
+
+.footer-main{
+    text-align: right;
+    padding: 100px 50px 50px 0px;
+    font-size: 50px;
+}
+
 /* 첫번째 챌린지 */
 .box{
     width: 200px;
@@ -54,3 +96,5 @@ p::first-letter {
 h1::before {
 content: "Topic: ";
 }
+
+
